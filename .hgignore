@@ -1,0 +1,8 @@
+build
+\.bzr
+\.DS_Store
+\.pbxuser
+\.mode1v3
+Dependencies/TLCrashReporter\.framework
+Dependencies/Sparkle\.framework
+Dependencies/OriginalSources
